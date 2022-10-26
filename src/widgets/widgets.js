@@ -1,10 +1,12 @@
 import adguard from "./adguard/widget";
 import authentik from "./authentik/widget";
+import autobrr from "./autobrr/widget";
 import bazarr from "./bazarr/widget";
 import changedetectionio from "./changedetectionio/widget";
 import coinmarketcap from "./coinmarketcap/widget";
 import emby from "./emby/widget";
 import gotify from "./gotify/widget";
+import homebridge from "./homebridge/widget";
 import jackett from "./jackett/widget";
 import jellyseerr from "./jellyseerr/widget";
 import lidarr from "./lidarr/widget";
@@ -34,11 +36,13 @@ import unifi from "./unifi/widget";
 const widgets = {
   adguard,
   authentik,
+  autobrr,
   bazarr,
   changedetectionio,
   coinmarketcap,
   emby,
   gotify,
+  homebridge,
   jackett,
   jellyfin: emby,
   jellyseerr,

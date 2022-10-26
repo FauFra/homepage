@@ -271,7 +271,21 @@
         "0-day": "Ensoleillé"
     },
     "quicklaunch": {
-        "bookmark": "Bookmark",
+        "bookmark": "Signet",
         "service": "Service"
+    },
+    "homebridge": {
+        "available_update": "Système",
+        "updates": "Mises à jour",
+        "update_available": "Mise à jour disponible",
+        "up_to_date": "À jour",
+        "child_bridges": "Child Bridges",
+        "child_bridges_status": "{{ok}}/{{total}}"
+    },
+    "autobrr": {
+        "approvedPushes": "Approved",
+        "rejectedPushes": "Rejected",
+        "filters": "Filters",
+        "indexers": "Indexers"
     }
 }
